@@ -20,7 +20,7 @@ First [sample](https://github.com/ethereumbook/ethereumbook/tree/develop/code/So
 - Interact with the contract :  
   - Call the contract passing parameters
   - The contract executes and sends the funds back to the caller in an internal transaction ([example transaction](https://ropsten.etherscan.io/tx/0xb0d9f485140667b0b2f7ce4eb1bbcffced3b1c645a8f0e93790dbbfcdb6acce0))
-- See source file here : [SimpleStorage.sol](./SimpleStorage/../Faucet/faucet.sol)
+- See source file here : [Faucel.sol](./SimpleStorage/../Faucet/faucet.sol)
 
 ## Sample - SimpleStorage
 - In Remix with JavaScript emulator
