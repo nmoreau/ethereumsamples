@@ -23,6 +23,7 @@ First [sample](https://github.com/ethereumbook/ethereumbook/tree/develop/code/So
 - See source file here : [Faucel.sol](./SimpleStorage/../Faucet/faucet.sol)
 
 ## Sample - SimpleStorage
+[Lesson 1](https://github.com/smartcontractkit/full-blockchain-solidity-course-py#lesson-1-welcome-to-remix-simple-storage) from Patrick Alpha 
 - In Remix with JavaScript emulator
 - Create a contract with a struct
 - Contact == Class
@@ -31,3 +32,11 @@ First [sample](https://github.com/ethereumbook/ethereumbook/tree/develop/code/So
 - Set state => tx on Blockchain - See [here](https://rinkeby.etherscan.io/address/0xff21db2a4aef454b79c4ff772c546d97b466ef84)
 - Get state - No tx
 - See source file here : [SimpleStorage.sol](./SimpleStorage/SimpleStorage.sol)
+
+## Sample - Factory
+[Lesson 2](https://github.com/smartcontractkit/full-blockchain-solidity-course-py#lesson-2-storage-factory) from Patrick Alpha
+- Import to make contracts visible
+- From the Factory instantiate a Contract and Publish it. We can create contract from a function.
+- Factory holds an array of instances from the contract
+- Inheritance - Factory inherits from the contact
+- 
