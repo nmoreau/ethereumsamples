@@ -40,3 +40,14 @@ First [sample](https://github.com/ethereumbook/ethereumbook/tree/develop/code/So
 - Factory holds an array of instances from the contract
 - Inheritance - Factory inherits from the contact
 
+## Sample - ERC20 and Web3
+[Lesson 9](https://github.com/smartcontractkit/full-blockchain-solidity-course-py#lesson-9-erc20s-eips-and-token-standards) from [Patrick Alpha YouTube Video Lesson 9](https://youtu.be/M576WGiDBdQ?t=30225)
+- Using Open Zepplin and requires use of Brownie. Too tedious and switching to using Remix with github imports
+- Moved back to a simple way to create a Token in Remix using [this tutorial](https://www.youtube.com/watch?v=E0guSeAlJFk) from DappHero
+- See my projects files here : [ERC20](./ERC20/)
+  - Create a contract and deploy
+  - Deployed contact needs to be verified for the syntax to be exposed publicly
+  - NMoreauToken contract deployed [Here](https://rinkeby.etherscan.io/address/0x1f7b45feeb114db4064133320739c51f25984cbf) on Rinkeby
+- Playing with Web3.js to interact with the contact - See [Web3.js](https://web3js.readthedocs.io/en/v1.5.2/) and my [samples](./Web3/)
+  - Running Js required to have the wallet connected to execute queries (readonly)
+  - Syntax from remix : ```remix.execute()```
