@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Human"
+      },
+      {
+        "trait_type": "Type",
+        "value": "Geek"
+      },
+      {
+        "trait_type": "Gender",
+        "value": "Dad"
+      }
+    ],
+    "description": "My pixelized face",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPjUwrEnk7KnP78LGgu6LLszQy5xbBi1uaAsVY5Scvmev",
+    "name": "Nicolas"
+  }
+  
