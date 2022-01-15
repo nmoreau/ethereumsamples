@@ -89,6 +89,7 @@ This sample is using the NFT tutorial from the Ethereum foundation.
  
 ```
   The metadata file is pointing to my [Pixelized face](https://gateway.pinata.cloud/ipfs/QmPjUwrEnk7KnP78LGgu6LLszQy5xbBi1uaAsVY5Scvmev) on IPFS.
+  
   ![](https://gateway.pinata.cloud/ipfs/QmPjUwrEnk7KnP78LGgu6LLszQy5xbBi1uaAsVY5Scvmev)
 
 - The NFT was minted by [this transaction](https://ropsten.etherscan.io/tx/0x7ac7147bca3de0a0c785e631991f3e4bc7d20a49d7ded6a2ad9866be86ba5548) with Nounce 3 
